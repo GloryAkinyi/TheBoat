@@ -1,0 +1,16 @@
+package com.wekesamabwi.theboat.navigation
+
+const val ROUT_HOME = "home"
+const val ROUT_ABOUT = "about"
+const val ROUT_REGISTER = "register"
+const val ROUT_LOGIN = "login"
+const val ROUT_MARKET = "market"
+const val ROUT_TRADE = "trade"
+const val ROUT_DASHBOARD = "dashboard"
+const val ROUT_SPLASH = "splash"
+const val ROUT_CONVERTER = "converter"
+const val ROUT_Notification = "notifications"
+const val ROUT_AIAssistantScreen = "ai_assistant"
+const val ROUT_NOTIFICATION = "notification"
+const val ROUT_ALERT_DETAILS = "alert_details"
+const val ROUT_CURRENCYCHART = "currencychart"
